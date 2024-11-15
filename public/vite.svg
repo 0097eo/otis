@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 356 257">
+  <defs>
+    <linearGradient id="eoGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#41D1FF"/>
+      <stop offset="100%" stop-color="#BD34FE"/>
+    </linearGradient>
+    <linearGradient id="eoGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFEA83"/>
+      <stop offset="100%" stop-color="#FFA800"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- E Letter -->
+  <path fill="url(#eoGradient1)" d="M40 50h100v40H80v38h50v40H80v39h60v40H40V50z"/>
+  
+  <!-- O Letter (moved 100 units to the right) -->
+  <path fill="url(#eoGradient2)" d="M260 50 
+    a65 65 0 0 1 65 65 
+    v27
+    a65 65 0 0 1 -65 65
+    a65 65 0 0 1 -65 -65
+    v-27
+    a65 65 0 0 1 65 -65
+    Z
+    M260 90
+    a25 25 0 0 0 -25 25
+    v27
+    a25 25 0 0 0 50 0
+    v-27
+    a25 25 0 0 0 -25 -25
+    Z"/>
+</svg>
